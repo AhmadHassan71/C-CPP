@@ -1,0 +1,26 @@
+|start|
+	|priorty|
+		18
+	|\priorty|
+	
+	|head|
+		|tab| |\tab| |tab| |tab| |tab| |\tab| 8th File.
+	|\head|
+	
+	|paragraph|
+		
+		 Google Developer Groups Islamabad is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. We are a city-level chapter of a global community. Join hands with us to be a part of DevFest 2022. We have previously hosted Google I/O Extended 2022 at FAST NUCES Islamabad. 
+		
+	|\paragraph|
+	
+	|paragraph| 
+		
+		What is the expression evaluating to |pre_exp| a + b * c + d - a + b * d |\pre_exp| ?
+
+	|\paragraph| 
+
+	|paragraph| 
+		
+		What is this picture about? Hmmmmm |src| \images\img7 |src| |\src|. 
+	|\paragraph|
+|\start|
